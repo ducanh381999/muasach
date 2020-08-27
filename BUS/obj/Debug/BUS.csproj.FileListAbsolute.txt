@@ -1,0 +1,16 @@
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\BUS.exe.config
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\BUS.exe
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\BUS.pdb
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\DAL.exe
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\DTO.exe
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\DAL.pdb
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\DAL.exe.config
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\DTO.pdb
+E:\ASP.Net\BTL_Nhom_22\BUS\bin\Debug\DTO.exe.config
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.exe
+E:\ASP.Net\BTL_Nhom_22\BUS\obj\Debug\BUS.pdb

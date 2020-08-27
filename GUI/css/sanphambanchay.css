@@ -1,0 +1,86 @@
+/* css */
+.main-menu-products {
+	/* position:relative;
+	height:290px; */
+}
+.container-content{
+	position:relative;
+	height:253px;
+	overflow:hidden;
+	border:1px solid #ddd;
+}
+.container-content .content{
+	position:absolute;
+	-webkit-transition:all 6s ease-in;
+	animation: sanphambanchay 20s infinite;
+}
+.container-content:hover .content{
+	 -webkit-animation-play-state: paused;
+}
+/* .main-menu-products .content {
+	position:absolute;
+	
+}
+ */
+@keyframes sanphambanchay{
+	0%{
+		top:-5%;
+	}
+	5%{
+		top:-10%;
+	}
+	10%{
+		top:-40%;
+	}
+	15%{
+		top:-50%;
+	}
+	20%{
+		top:-60%;
+	}
+	25%{
+		top:-70%;
+	}
+	30%{
+		top:-90%;
+	}
+	35%{
+		top:-110%;
+	}
+	40%{
+		top:-130%;
+	}
+	45%{
+		top:-150%;
+	}
+	50%{
+		top:-170%;
+	}
+	55%{
+		top:-190%;
+	}
+	60%{
+		top:-210%;
+	}
+	65%{
+		top:-220%;
+	}
+	70%{
+		top:-240%;
+	}
+	75%{
+		top:-260%;
+	}
+	80%{
+		top:-280%;
+	}
+	85%{
+		top:-300%;
+	}
+	90%{
+		top:-320%;
+	}
+	100%{
+		top:-340%;
+	}
+}

@@ -1,0 +1,9 @@
+E:\ASP.Net\BTL_Nhom_22\DTO\bin\Debug\DTO.exe.config
+E:\ASP.Net\BTL_Nhom_22\DTO\bin\Debug\DTO.exe
+E:\ASP.Net\BTL_Nhom_22\DTO\bin\Debug\DTO.pdb
+E:\ASP.Net\BTL_Nhom_22\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\ASP.Net\BTL_Nhom_22\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+E:\ASP.Net\BTL_Nhom_22\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\ASP.Net\BTL_Nhom_22\DTO\obj\Debug\DTO.exe
+E:\ASP.Net\BTL_Nhom_22\DTO\obj\Debug\DTO.pdb
+E:\ASP.Net\BTL_Nhom_22\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

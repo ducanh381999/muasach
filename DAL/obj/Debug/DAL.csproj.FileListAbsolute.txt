@@ -1,0 +1,8 @@
+E:\ASP.Net\BTL_Nhom_22\DAL\obj\Debug\DAL.Properties.Resources.resources
+E:\ASP.Net\BTL_Nhom_22\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\ASP.Net\BTL_Nhom_22\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\ASP.Net\BTL_Nhom_22\DAL\bin\Debug\DAL.exe.config
+E:\ASP.Net\BTL_Nhom_22\DAL\bin\Debug\DAL.exe
+E:\ASP.Net\BTL_Nhom_22\DAL\bin\Debug\DAL.pdb
+E:\ASP.Net\BTL_Nhom_22\DAL\obj\Debug\DAL.exe
+E:\ASP.Net\BTL_Nhom_22\DAL\obj\Debug\DAL.pdb
